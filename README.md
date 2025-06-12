@@ -1,1 +1,1 @@
-# Na-ve-Bay-sienne-Classification
+# Naive-Bayisienne-Classification
